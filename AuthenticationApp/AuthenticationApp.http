@@ -1,0 +1,6 @@
+PUT http://localhost:5258/api/auth/update-profile
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNCIsImVtYWlsIjoiZGFuaWVsam9uZXNAeWFob29tYWlsLmNvbSIsImZ1bGxOYW1lIjoiRGFuaWVsIEpvbmVzIiwiZXhwIjoxNzk0MjA1NzAwLCJpc3MiOiJBdXRoZW50aWNhdGlvbkFwcCIsImF1ZCI6IkF1dGhlbnRpY2F0aW9uQXBwVXNlcnMifQ.JmvgQ7rNPSd7HT43WrFx-BoQGvqkTmEUr8enOzEa_Cw
+Content-Type: application/json
+{
+  "Fullname": "Daniel Jones SNR"
+}
